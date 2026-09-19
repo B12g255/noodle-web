@@ -1,0 +1,13 @@
+{
+  "name": "noodle-web",
+  "version": "1.0.0",
+  "description": "校园泡面点餐网页版（H5）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "qrcode": "^1.5.4"
+  }
+}
